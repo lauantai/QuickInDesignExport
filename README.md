@@ -1,6 +1,6 @@
 Quick InDesign Export
 =====================
-![Quick InDesign Export](https://github.com/lauantai/QuickIndesignExport/raw/master/icon.png)
+<img src="https://github.com/lauantai/QuickIndesignExport/raw/master/icon.png" alt="Quick InDesign Export" width="256">
 
 [Alfred](http://www.alfredapp.com) workflow for exporting from Adobe InDesign to PDF & JPG in one single step.
 
